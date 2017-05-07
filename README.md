@@ -38,6 +38,11 @@ Work in progress
 
 
 ## W266 Natural Language Processing
+The course covers main/common NLP tasks and relevant tools and techniques (neural net/tensorflow, dynamic programming).
+All work is done in python, using a mixture of **google cloud** and PC.
+We learned and built Kneser-Ney, LSTM-RNN language models, Forward-backward, Virtebi and CKY algorithms.
+Our final project is an open information extraction and information retrieval system on marvel movie transcripts.
+The report can be found [here](https://github.com/jimscchen/MIDS/blob/master/W266/w266_final_project_report_jim-rohan-winston.pdf).
 
 
 ## W271 Statistical Methods for Discrete Response, Time Series and Panel Data*
