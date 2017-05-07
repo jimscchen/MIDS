@@ -1,0 +1,2366 @@
+******** line 42 ********
+40. Wolverine:
+What do you mean you were never there?
+
+41. Professor X:
+She projects Bishop back in time a few days to warn the others... of the coming attack.
+
+=> 42. Wolverine:
+=> So she needs Bishop back in time?
+
+43. Professor X:
+No, just his consciousness, into his younger self. His younger body.
+
+44. Wolverine:
+Wow.
+
+******** evaluate line 42 in x-men_days_of_future_past_tw_gapi.csv ********
+1 pronouns resolved
+1. she => Wolverine
+
+how many are correctly identified? 0
+
+******** line 100 ********
+98. Past Wolverine:
+Well, I didn't sleep with her.
+
+99. Ramone:
+No?
+
+=> 100. Past Wolverine:
+=> No. I mean, yes, I slept with her many times.
+
+101. Gwen:
+Jimmy!
+
+102. Past Wolverine:
+That wasn't me. That was the old me. I just got here 20 seconds ago.
+
+******** evaluate line 100 in x-men_days_of_future_past_tw_gapi.csv ********
+3 pronouns resolved
+1. I => narrator
+2. I => Bishop
+3. her => Bishop
+
+how many are correctly identified? 0
+
+******** line 182 ********
+180. Hank:
+No. [gives way as Logan bursts through door] [Logan finally manages to push through the door and enter the house] [as Logan pushes past Hank and enters X-Mansion] Hey! Is said the school's closed. You need to leave.
+
+181. Past Wolverine:
+Not until I see the Professor.
+
+=> 182. Hank:
+=> [Hank grabs Logan by his shoulder and turns him round] There's no Professor here, I told you that.
+
+183. Past Wolverine:
+[To Hank] Look, kid. You and I gonna be good friends... [suddenly Logan punches Hank in the face making him fall to the ground] [Hank watches in pain as Logan goes to search for the Professor] Professor! [Hank looking angry, Hank turns into his Beast form] [Logan walks through a corridor] Professor!
+
+184. Beast:
+(Roars)
+
+******** evaluate line 182 in x-men_days_of_future_past_tw_gapi.csv ********
+4 pronouns resolved
+1. his => Past Wolverine
+2. him => Colossus
+3. I => Mystique
+4. you => Colonel
+
+how many are correctly identified? 1
+
+******** line 301 ********
+299. Young Charles:
+That's an old card.
+
+300. Hank:
+He's fascinating.
+
+=> 301. Young Charles:
+=> He's a pain in the arise.
+
+302. Hank:
+What, a teleporter?
+
+303. Past Wolverine:
+No, he just fast. And when I knew him he wasn't so... young.
+
+******** evaluate line 301 in x-men_days_of_future_past_tw_gapi.csv ********
+1 pronouns resolved
+1. He => Blink
+
+how many are correctly identified? 0
+
+******** line 77 ********
+75. narrator:
+Logan is lying down as Kitty prepares him
+
+76. Kitty:
+Basically, your body will go to sleep. While your mind travels back in time. As long as you're back there, past and present will continue to coexist. But you once wake up... whatever you've done will take hold and become history. And for the rest of us, it will be the only history that we know. It will be like the last that 50 years never happened. And this world, and this war... the only person who remember it is you. All right, Logan... I need you to clear your head and to stay as calm as possible.
+
+=> 77. Wolverine:
+=> What? What do you mean?
+
+78. Kitty:
+If your mind gets rocky, it will be harder for me to hold you... and you could start to slip between past and future.
+
+79. Wolverine:
+What if I need to get a little rocky?
+
+******** evaluate line 77 in x-men_days_of_future_past_tw_gapi.csv ********
+3 pronouns resolved
+1. What => Colossus
+2. What => Young Charles
+3. you => Storm
+
+how many are correctly identified? 0
+
+******** line 123 ********
+121. narrator:
+there's a low chuckle by Trask and some of the congressmen
+
+122. Dr. Trask:
+[Warning Congress] You know, when you sent our soldiers to Vietnam without the weapons they needed to win the war, you underestimated your enemy. You do that with this enemy and it won't be some border skirmish halfway around the world. This time, the war will be for our streets, our cities, our homes. By the time you see the need for my program, it'll be too late and you'll have lost two wars in one lifetime.
+
+=> 123. Senator Brickman:
+=> [Believing Trask is insane and paranoid] We're sorry Dr. Trask, but your Sentinel Program it ain't going to fly!
+
+124. narrator:
+Saigon - Colonel Sanders arrives at a quarantined tent guarded by MP's
+
+125. Soldier:
+Can I help you, Colonel?
+
+******** evaluate line 123 in x-men_days_of_future_past_tw_gapi.csv ********
+2 pronouns resolved
+1. We => Senator Brickman
+2. your => Young Charles
+
+how many are correctly identified? 1
+
+******** line 152 ********
+150. Colonel:
+The question is, Major... ...who are you?
+
+151. narrator:
+suddenly Sanders turns into Mystique, she and the other mutants take down the soldiers
+
+=> 152. narrator:
+=> as Stryker goes to grab his gun, Raven grabs hold of his throat and nearly strangles him
+
+153. Havok:
+Raven!
+
+154. Mystique:
+That's not my name. [before Raven kills Stryker Alex uses his power to release a plasma blast at Stryker who gets knocked out] I had that.
+
+******** evaluate line 152 in x-men_days_of_future_past_tw_gapi.csv ********
+3 pronouns resolved
+1. his => Hank
+2. his => Warpath
+3. him => Colossus
+
+how many are correctly identified? 0
+
+******** line 171 ********
+169. Hank:
+Can I help you?
+
+170. Past Wolverine:
+Uh... Yeah, what happened to the school?
+
+=> 171. Hank:
+=> The school's been shut for years. Are you a parent? Past Wolverine:[scoffs] I sure as hell hope not. Who are you?
+
+172. Hank:
+I'm Hank. Hank McCoy. I look after the house now.
+
+173. Past Wolverine:
+[smiles] You're Beast? Look at you. I guess you're a late bloomer.
+
+******** evaluate line 171 in x-men_days_of_future_past_tw_gapi.csv ********
+4 pronouns resolved
+1. you => Professor X
+2. I => Warpath
+3. Who => Toad
+4. you => Sunspot
+
+how many are correctly identified? 0
+
+******** line 293 ********
+291. narrator:
+she lets them enter
+
+292. Ms. Maximoff:
+Peter! The cops are here. Again.
+
+=> 293. narrator:
+=> the three walk down to the basement where Peter is playing table tennis with himself using his powers of speed
+
+294. Quicksilver:
+What do you guys want? I didn't do anything. [suddenly he sits down on the couch] I've been here all day.
+
+295. Past Wolverine:
+Just relax, Peter. We're not Cops.
+
+******** evaluate line 293 in x-men_days_of_future_past_tw_gapi.csv ********
+2 pronouns resolved
+1. himself => Sunspot
+2. his => Bobby
+
+how many are correctly identified? 0
+
+******** line 256 ********
+254. Young Charles:
+But I'll tell you this. You don't know Erik. That man is a monster. A murderer. You think you can convice Raven to change? To come home? That's splendid. But what makes you thibk you can change him?
+
+255. Past Wolverine:
+Because you and Erik sent me back together.
+
+=> 256. narrator:
+=> we see Erik being held in a prison cell beneath the Pentagon
+
+257. Hank:
+The room they're holding him in was built during the Second World War... when there was a shortage of steel. So the foundation is pure concrete and sand. No metal.
+
+258. Young Charles:
+He's being held... a hundred floors beneath the most heavily guarded building the planet.
+
+******** evaluate line 256 in x-men_days_of_future_past_tw_gapi.csv ********
+1 pronouns resolved
+1. we => Bobby
+
+how many are correctly identified? 0
+
+******** line 245 ********
+243. Hank:
+Told you there's no professor here.
+
+244. Past Wolverine:
+What the hell happened to him?
+
+=> 245. Hank:
+=> He lost everything. Erik, Raven... his legs. We built this school, the labs, this whole place... then, just after the first semester... the war in Vietnam got worse. Many of the teachers... and older students were drafted. It broke him. He retreated himself. I wanted to help, do something... so I designed a serum to treat his spine... derived from the same formula that helps me control my mutation. I take just enough to keep myself balanced... but he takes too much. I tried easing him back... but he just couldn't bear the pain, the voices. The treatment gives him his legs... but its not enough. He's... He's just lost too much.
+
+246. narrator:
+in his room, after he's taken another shot of Hank's serum, Charles has flashback to when he first met Raven when they were children
+
+247. Young Raven:
+You're not scared of me?
+
+******** evaluate line 245 in x-men_days_of_future_past_tw_gapi.csv ********
+23 pronouns resolved
+1. He => Past Wolverine
+2. his => Senator Parker
+3. We => Sunspot
+4. It => Professor X
+5. him => narrator
+6. He => Beast
+7. himself => Magneto
+8. I => Toad
+9. I => Sectary
+10. his => Bishop
+11. me => Havok
+12. my => Dr. Trask
+13. I => Colonel
+14. myself => Past Wolverine
+15. he => Bishop
+16. I => Colonel
+17. him => Storm
+18. he => Havok
+19. him => Warpath
+20. his => Wolverine
+21. its => Gwen
+22. He => Warpath
+23. He => Colossus
+
+how many are correctly identified? 0
+
+******** line 83 ********
+81. Wolverine:
+Peaceful thoughts... Do you have any good news?
+
+82. Kitty:
+Well, you don't really age, so you'll pretty much look the same.
+
+=> 83. Bobby:
+=> You won't have much the time in the past. The Sentinels will find us. They always do.
+
+84. Kitty:
+And this time, we won't be able to run. We'll have no escape. This is our last chance!
+
+85. Magneto:
+You really think this work?
+
+******** evaluate line 83 in x-men_days_of_future_past_tw_gapi.csv ********
+3 pronouns resolved
+1. You => Young Raven
+2. us => Guy
+3. They => Past Wolverine
+
+how many are correctly identified? 0
+
+******** line 252 ********
+250. Young Charles:
+You're hungry and alone. Take whatever you want. We've got lots of food. You don't have to steal. In fact... you never have to steal again. And that's a promise.
+
+251. narrator:
+Charles joins Hank and Logan again
+
+=> 252. Young Charles:
+=> I'll help you get her. Not for any of your future shite, but for her.
+
+253. Past Wolverine:
+Fair enough.
+
+254. Young Charles:
+But I'll tell you this. You don't know Erik. That man is a monster. A murderer. You think you can convice Raven to change? To come home? That's splendid. But what makes you thibk you can change him?
+
+******** evaluate line 252 in x-men_days_of_future_past_tw_gapi.csv ********
+5 pronouns resolved
+1. I => Bobby
+2. you => narrator
+3. her => Professor X
+4. your => Sunspot
+5. her => Sectary
+
+how many are correctly identified? 0
+
+******** line 50 ********
+48. Trask(flashback):
+This is extraordinary.
+
+49. Professor X:
+There was one mutant who has discovered what he was doing.
+
+=> 50. Magneto:
+=> A mutant with the ability to transform herself into anyone.
+
+51. Colossus:
+Mystique.
+
+52. Professor X:
+I knew her as Raven. We me when we were children, grew up together. She was like a sister to me. I tried to help her... but only succeeded in driving her away. She haunted Trask across the world. And at the Paris Peace Accords in 1973, after the Vietnam War, she found Trask... and killed him. It was the first time she killed.
+
+******** evaluate line 50 in x-men_days_of_future_past_tw_gapi.csv ********
+1 pronouns resolved
+1. herself => Past Wolverine
+
+how many are correctly identified? 0
+
+******** line 212 ********
+210. Young Charles:
+Are you CIA?
+
+211. Past Wolverine:
+No.
+
+=> 212. Young Charles:
+=> You've been watching me?
+
+213. Past Wolverine:
+I know you, Charles. We've been friends for years. I know your powers came when you were 9. I know you thought you were going crazy when it started... all the voices in your head. And it wasn't until you were 12... that you realized all the voices were in everyone else's head. Do you want me to go on?
+
+214. narrator:
+Charles looks confused and shocked
+
+******** evaluate line 212 in x-men_days_of_future_past_tw_gapi.csv ********
+2 pronouns resolved
+1. You => Ms. Maximoff
+2. me => Storm
+
+how many are correctly identified? 0
+
+******** line 191 ********
+189. Young Charles:
+Please don't call me that.
+
+190. Beast:
+Why? You know this guy?
+
+=> 191. Young Charles:
+=> Yeah, he looks sightly familiar. Get off the bloody chandelier, Hank.
+
+192. narrator:
+Hank dismounts from the chandelier
+
+193. Past Wolverine:
+You can walk?
+
+******** evaluate line 191 in x-men_days_of_future_past_tw_gapi.csv ********
+1 pronouns resolved
+1. he => Ramone
+
+how many are correctly identified? 0
+
+******** line 40 ********
+38. Kitty:
+Whenever the Sentinels attack, Warpath spots them... then I send Bishop back to warn us of the attack before it happens. Blink scouts the exit site... and then we leave before they ever know we were there.
+
+39. Warpath:
+Because... we never were.
+
+=> 40. Wolverine:
+=> What do you mean you were never there?
+
+41. Professor X:
+She projects Bishop back in time a few days to warn the others... of the coming attack.
+
+42. Wolverine:
+So she needs Bishop back in time?
+
+******** evaluate line 40 in x-men_days_of_future_past_tw_gapi.csv ********
+3 pronouns resolved
+1. What => Warpath
+2. you => Young Raven
+3. you => Warpath
+
+how many are correctly identified? 1
+
+******** line 12 ********
+10. Bishop:
+Sunspot!
+
+11. narrator:
+Sunspot uses his power to create solar power energy which Bishop uses with his powers to absorb and power up his weapon
+
+=> 12. Kitty:
+=> Let's go.
+
+13. narrator:
+Bishop and Kitty start running and Kitty uses her power so that she and Bishop can phases through walls as the others wait to fight the Sentinels. When they arrive the team of mutants begin to fight the Sentinels. Bobby/Iceman also arrives to join them, but the Sentinels kill them all by latching onto the mutants to adapt to their powers, copying them and use their powers against them
+
+14. Warpath:
+Run!
+
+******** evaluate line 12 in x-men_days_of_future_past_tw_gapi.csv ********
+1 pronouns resolved
+1. 's => Stryker
+
+how many are correctly identified? 0
+
+******** line 196 ********
+194. Young Charles:
+You're a perceptive one.
+
+195. Past Wolverine:
+I thought Erik...
+
+=> 196. Young Charles:
+=> Which makes it slightly perplexing that you missed our sign on the way in. This is private property, my friend. I'm gonna have to ask him to ask you to leave.
+
+197. Past Wolverine:
+Well. I'm afraid I can't do that... because I was sent here for you.
+
+198. Young Charles:
+Well, tell whoever it was sent you that I'm busy.
+
+******** evaluate line 196 in x-men_days_of_future_past_tw_gapi.csv ********
+6 pronouns resolved
+1. you => Gwen
+2. our => Young Raven
+3. my => Hank
+4. I => Sectary
+5. him => Blink
+6. you => narrator
+
+how many are correctly identified? 0
+
+******** line 297 ********
+295. Past Wolverine:
+Just relax, Peter. We're not Cops.
+
+296. Quicksilver:
+Of course you're not. If you were, you wouldn't be driving a rental car.
+
+=> 297. Young Charles:
+=> How did you know we've got a rental car?
+
+298. Quicksilver:
+I checked your registration when you were walking to the door. I also had some time to kill so I went through your rental agreement. Saw you were from out of town. Are you FBI? [using his power he quickly swipes Charles' wallet and looks at Charles' card] No, you're not cops. Hey, what's with his gifted youngsters place? [he drops the card and wallet to the floor]
+
+299. Young Charles:
+That's an old card.
+
+******** evaluate line 297 in x-men_days_of_future_past_tw_gapi.csv ********
+2 pronouns resolved
+1. you => narrator
+2. we => Sunspot
+
+how many are correctly identified? 0
+
+******** line 322 ********
+320. Clint Barton:
+You bet your ass.
+
+321. Maria Hill:
+Steve, he said a bad language word.
+
+=> 322. Steve Rogers:
+=> [to Stark] Did you tell everyone about that?
+
+323. Tony Stark:
+The handle's imprinted, right? Like a security code. "Whosoever is carrying Thor's fingerprints" is, I think, the literal translation?
+
+324. Thor:
+Yes, well that's, uh, that's a very, very interesting theory. I have a simpler one. [he gets up and lifts his hammer and flips it] You're all not worthy. [there's a chorus of disagreement from the others] [there's a loud screeching noise, causing everyone to cover their ears. They let their hands down as it fades. Ultron shows up]
+
+******** evaluate line 322 in avengers_age_of_ultron_tw_gapi.csv ********
+1 pronouns resolved
+1. you => JARVIS
+
+how many are correctly identified? 0
+
+******** line 796 ********
+794. Wanda Maximoff:
+I looked in your head and saw annihilation.
+
+795. Vision:
+Look again.
+
+=> 796. Clint Barton:
+=> Yeah. Her seal of approval means jack to me.
+
+797. Thor:
+Their powers, the horrors in our heads, Ultron himself, they all came from the Mind Stone, and they're nothing compared to what it can unleash. But with it on our side...
+
+798. Steve Rogers:
+Is it? Are you? On our side?
+
+******** evaluate line 796 in avengers_age_of_ultron_tw_gapi.csv ********
+2 pronouns resolved
+1. Her => Soldiers
+2. me => Sam Wilson
+
+how many are correctly identified? 0
+
+******** line 742 ********
+740. Bruce Banner:
+We're going to need to access the program, break it down from within.
+
+741. Tony Stark:
+Hm. Any chance Natasha might leave you a message, outside the internet, old school spy stuff?
+
+=> 742. Clint Barton:
+=> There's some nets I can cast. Yeah, alright. I'll find her. [Barton goes off]
+
+743. Bruce Banner:
+I can work on tissue degeneration, if you can fry whatever operational system Cho implanted.
+
+744. Tony Stark:
+Yeah, about that. [Banner looks at Stark]
+
+******** evaluate line 742 in avengers_age_of_ultron_tw_gapi.csv ********
+3 pronouns resolved
+1. I => Steve Rogers
+2. I => Laura Barton
+3. her => Jarvis
+
+how many are correctly identified? 0
+
+******** line 437 ********
+435. Steve Rogers:
+What dialect?
+
+436. Bruce Banner:
+Wakanada...? Wa...Wa...Wakanda.
+
+=> 437. Tony Stark:
+=> If this guy got out of Wakanda with some of their trade goods...
+
+438. Steve Rogers:
+I thought your father said he got the last of it?
+
+439. Bruce Banner:
+I don't follow. What comes out of Wakanda? [looking at Steve's shield]
+
+******** evaluate line 437 in avengers_age_of_ultron_tw_gapi.csv ********
+1 pronouns resolved
+1. their => narrator
+
+how many are correctly identified? 0
+
+******** line 779 ********
+777. Bruce Banner:
+[to Wanda] Go ahead, piss me off. [just then Thor enters and pounds the cradle with his hammer, sending a powerful bolt of lightning that brings the body to life] Wait! [they all look in shock at the body who has JARVIS' voice and has become the Vision]
+
+778. Vision:
+I'm sorry, that was...odd. [to Thor] Thank you.
+
+=> 779. Steve Rogers:
+=> Thor, you helped create this?
+
+780. Thor:
+I've had a vision. A whirlpool that sucks in all hope of life and at it's center is that. [he points to the gem inside Vision's head]
+
+781. Bruce Banner:
+What, the gem?
+
+******** evaluate line 779 in avengers_age_of_ultron_tw_gapi.csv ********
+1 pronouns resolved
+1. you => Thanos
+
+how many are correctly identified? 0
+
+******** line 262 ********
+260. Steve Rogers:
+I don't think I can afford a place in Brooklyn.
+
+261. Sam Wilson:
+Well, home is home, you know? [Rhodes is telling the same story he told Stark and Thor to a group of women at the party]
+
+=> 262. James Rhodes:
+=> I fly it right up to the General's palace, I drop it at his feet, I'm like, "Boom! You looking for this?" [the group laughs] [Steve and Thor are talking to an elderly man at the party]
+
+263. Party Guest:
+I gotta have some of that!
+
+264. Thor:
+Oh, no, no, no. See this, this was aged for a thousand years, in the barrels built from the wreck of Brunhilde's fleet, it's not meant for mortal men. [Thor pours the drink into two glasses and hands one to Steve]
+
+******** evaluate line 262 in avengers_age_of_ultron_tw_gapi.csv ********
+5 pronouns resolved
+1. I => Laura Barton
+2. I => Stan Lee
+3. his => Announcer
+4. I => Lila Barton
+5. You => Announcer
+
+how many are correctly identified? 0
+
+******** line 480 ********
+478. Ballet Instructor:
+[to the students] Again.
+
+479. Natasha Romanoff:
+You'll break them.
+
+=> 480. Madame B:
+=> Only the breakable ones. You are made of marble. We'll celebrate after the graduation ceremony.
+
+481. Natasha Romanoff:
+What if I fail? [we see a younger Natasha being trained to be an assassin]
+
+482. Madame B:
+You never fail. [Steve sees himself in a 1940's dance hall when Peggy Carter comes up to him]
+
+******** evaluate line 480 in avengers_age_of_ultron_tw_gapi.csv ********
+2 pronouns resolved
+1. You => Klaue's Mercenary
+2. We => World Hub Tech
+
+how many are correctly identified? 0
+
+******** line 1003 ********
+1001. Tony Stark:
+Triple Yahtzee?
+
+1002. Steve Rogers:
+You think you can find out what's coming?
+
+=> 1003. Thor:
+=> I do. Besides this one, there's nothing that can't be explained. [Thor returns to Asgard which burns a circle in the grass he was standing on]
+
+1004. Tony Stark:
+That man has no regard for lawn maintenance. I'm gonna miss him though. And you're gonna miss me. There's gonna be a lot of manful tears. [as they walk over towards Stark's car]
+
+1005. Steve Rogers:
+I will miss you, Tony.
+
+******** evaluate line 1003 in avengers_age_of_ultron_tw_gapi.csv ********
+2 pronouns resolved
+1. I => Barton's Daughter
+2. he => Thanos
+
+how many are correctly identified? 0
+
+******** line 778 ********
+776. Clint Barton:
+What? You didn't see that coming?
+
+777. Bruce Banner:
+[to Wanda] Go ahead, piss me off. [just then Thor enters and pounds the cradle with his hammer, sending a powerful bolt of lightning that brings the body to life] Wait! [they all look in shock at the body who has JARVIS' voice and has become the Vision]
+
+=> 778. Vision:
+=> I'm sorry, that was...odd. [to Thor] Thank you.
+
+779. Steve Rogers:
+Thor, you helped create this?
+
+780. Thor:
+I've had a vision. A whirlpool that sucks in all hope of life and at it's center is that. [he points to the gem inside Vision's head]
+
+******** evaluate line 778 in avengers_age_of_ultron_tw_gapi.csv ********
+2 pronouns resolved
+1. I => Party Guest
+2. you => World Hub Tech
+
+how many are correctly identified? 0
+
+******** line 23 ********
+21. Dr. List:
+Then let's show them what we've accomplished. Send out the twins.
+
+22. Strucker:
+It's too soon.
+
+=> 23. Dr. List:
+=> It's what they signed up for.
+
+24. Strucker:
+My men can hold them.
+
+25. narrator:
+Stark flies to the HYDRA base to break in
+
+******** evaluate line 23 in avengers_age_of_ultron_tw_gapi.csv ********
+2 pronouns resolved
+1. It => Bruce Banner
+2. they => Soldiers
+
+how many are correctly identified? 0
+
+******** line 341 ********
+339. Bruce Banner:
+Sorry!
+
+340. Natasha Romanoff:
+Don't turn green!
+
+=> 341. Bruce Banner:
+=> I won't! [they all fight against the Iron Legions and Ultron takes the scepter; to Banner]
+
+342. Natasha Romanoff:
+Come!
+
+343. Steve Rogers:
+Stark! [Stark is trying to shut down one of the Iron Legions]
+
+******** evaluate line 341 in avengers_age_of_ultron_tw_gapi.csv ********
+2 pronouns resolved
+1. I => Iron Legion
+2. they => Natasha Romanoff
+
+how many are correctly identified? 0
+
+******** line 619 ********
+617. Nick Fury:
+Ultron took you folks out of play to buy himself time. My contacts all say he's building something. The amount of Vibranium he made off with, I don't think it's just one thing.
+
+618. Steve Rogers:
+What about Ultron himself?
+
+=> 619. Nick Fury:
+=> Ah. He's easy to track, he's everywhere. Guy's multiplying faster than a Catholic rabbit. Still doesn't help us get an angle on any of his plans though.
+
+620. Tony Stark:
+He still going after launch codes?
+
+621. Nick Fury:
+Yes, he is, but he's not making any headway.
+
+******** evaluate line 619 in avengers_age_of_ultron_tw_gapi.csv ********
+4 pronouns resolved
+1. He => Klaue's Mercenary
+2. he => Klaue's Mercenary
+3. us => Wanda Maximoff
+4. his => Madame B
+
+how many are correctly identified? 0
+
+******** line 100 ********
+98. Steve Rogers:
+We have a second enhanced. Female. Do not engage.
+
+99. narrator:
+he looks at Strucker
+
+=> 100. Strucker:
+=> You'll have to be faster than...
+
+101. narrator:
+Steve uses his shield to knock out Strucker
+
+102. Steve Rogers:
+Guys, I got Strucker.
+
+******** evaluate line 100 in avengers_age_of_ultron_tw_gapi.csv ********
+1 pronouns resolved
+1. You => Soldiers
+
+how many are correctly identified? 0
+
+******** line 318 ********
+316. Tony Stark:
+And?
+
+317. Bruce Banner:
+Widow?
+
+=> 318. Natasha Romanoff:
+=> Oh, no no. That's not a question I need answered.
+
+319. Tony Stark:
+All deference to the man who wouldn't be king, but it's rigged.
+
+320. Clint Barton:
+You bet your ass.
+
+******** evaluate line 318 in avengers_age_of_ultron_tw_gapi.csv ********
+1 pronouns resolved
+1. I => Stan Lee
+
+how many are correctly identified? 0
+
+******** line 655 ********
+653. Nick Fury:
+I don't know. Something dramatic, I hope.
+
+654. Clint Barton:
+I'm gonna finish re-flooring that sunroom as soon as I get back.
+
+=> 655. Laura Barton:
+=> Yeah, and then you'll find another part of the house to tear apart.
+
+656. Clint Barton:
+No. It's the last project. I promise. [he kisses her; later Laura watches them fly off in the Quinjet] [Thor and Selvig enter into a cave]
+
+657. Erik Selvig:
+This is it. The Water of Sight.
+
+******** evaluate line 655 in avengers_age_of_ultron_tw_gapi.csv ********
+1 pronouns resolved
+1. you => Klaue's Mercenary
+
+how many are correctly identified? 0
+
+******** line 918 ********
+916. FRIDAY:
+Running numbers. [Stark fights off the robots from the Helicarrier's lifeboats] A heat seal could work with enough power.
+
+917. Tony Stark:
+Thor, I got a plan!
+
+=> 918. Thor:
+=> We're out of time. They're coming for the core.
+
+919. Tony Stark:
+Rhodey, get the rest of the people on board that carrier.
+
+920. James Rhodes:
+On it.
+
+******** evaluate line 918 in avengers_age_of_ultron_tw_gapi.csv ********
+2 pronouns resolved
+1. We => Bruce Banner
+2. They => Sam Wilson
+
+how many are correctly identified? 0
+
+******** line 515 ********
+513. Thor:
+What is this place?
+
+514. Tony Stark:
+A safe house?
+
+=> 515. Clint Barton:
+=> Let's hope. [they all enter the house] Honey, I'm home. [Barton's heavily pregnant wife, Laura, walks in from the kitchen]
+
+516. Clint Barton:
+Hi. Company. Sorry I didn't call ahead.
+
+517. Laura Barton:
+Hey.
+
+******** evaluate line 515 in avengers_age_of_ultron_tw_gapi.csv ********
+3 pronouns resolved
+1. 's => Clint Barton
+2. they => Tony Stark
+3. I => Tony Stark
+
+how many are correctly identified? 1
+
+******** line 883 ********
+881. Steve Rogers:
+The next wave's gonna hit any minute. What have you got, Stark?
+
+882. Tony Stark:
+Well, nothing great. Maybe a way to blow up the city. That'll keep it from impacting the surface if you guys can get clear.
+
+=> 883. Steve Rogers:
+=> I asked for a solution, not an escape plan.
+
+884. Tony Stark:
+Impact radius is getting bigger every second. We're going to have to make a choice.
+
+885. Natasha Romanoff:
+Cap, these people are going nowhere. If Stark finds a way to blow this rock...
+
+******** evaluate line 883 in avengers_age_of_ultron_tw_gapi.csv ********
+1 pronouns resolved
+1. I => Dr. List
+
+how many are correctly identified? 0
+
+******** line 458 ********
+456. Tony Stark:
+He beat me by one second.
+
+457. Pietro Maximoff:
+Ah, this is funny, Mr. Stark. It's what, comfortable? Like old times?
+
+=> 458. Tony Stark:
+=> This was never my life.
+
+459. Steve Rogers:
+[to the twins] You two can still walk away from this.
+
+460. Wanda Maximoff:
+Oh, we will.
+
+******** evaluate line 458 in avengers_age_of_ultron_tw_gapi.csv ********
+1 pronouns resolved
+1. my => Ballet Instructor
+
+how many are correctly identified? 0
+
+******** line 346 ********
+344. Iron Legion:
+We are here to help.
+
+345. Tony Stark:
+One sec, one sec!
+
+=> 346. Iron Legion:
+=> We are here to help. We are here to help... [Stark continues to try and shut down one of the Iron Legions] We are here to help. It's unsafe. It's unsafe. It's unsafe.
+
+347. Tony Stark:
+No more. That's the one.
+
+348. Iron Legion:
+It's unsafe. [he manages to shut down the Iron Legion, at the same time Barton throws Steve's shield at him]
+
+******** evaluate line 346 in avengers_age_of_ultron_tw_gapi.csv ********
+6 pronouns resolved
+1. We => Iron Legion
+2. We => James Rhodes
+3. We => Bruce Banner
+4. It => Ultron
+5. It => Peggy Carter
+6. It => Dr. Helen Cho
+
+how many are correctly identified? 1
+
+******** line 192 ********
+190. Jean:
+Scott.
+
+191. Scott:
+How?
+
+=> 192. Jean:
+=> I don't know. I wanna see your eyes. - Take these off.
+
+193. Scott:
+No. No.
+
+194. Jean:
+Trust me. I can control it now. Open them. You can't hurt me.
+
+******** evaluate line 192 in x-men_the_last_stand_tw_gapi.csv ********
+3 pronouns resolved
+1. I => Lady
+2. I => Young Jean
+3. your => Cain
+
+how many are correctly identified? 1
+
+******** line 97 ********
+95. Hank:
+You realize the impact this'll have on the mutant community?
+
+96. President:
+Yes. I do. That's precisely why we need some of your diplomacy now.
+
+=> 97. Charles:
+=> When an individual acquires great power, the use or misuse of that power is everything. Will it be for the greater good or will it be used for personal or for destructive ends? Now, this is a question we must all ask ourselves. Why? Because we are mutants. For psychics, this presents a particular problem. When is it acceptable to use our power and when do we cross that invisible line that turns us into tyrants over our fellow man?
+
+98. Kitty:
+But Einstein said that ethics are an exclusive human concern without any superhuman authority behind it.
+
+99. Charles:
+Einstein wasn't a mutant so far as we know. This case study was sent to me by a colleague, Dr. Moira McTaggert. Jones.
+
+******** evaluate line 97 in x-men_the_last_stand_tw_gapi.csv ********
+7 pronouns resolved
+1. we => Logn
+2. ourselves => Warren
+3. we => Jimmy
+4. our => James
+5. we => Scott
+6. us => Mr. Worthington
+7. our => Jean's voice
+
+how many are correctly identified? 0
+
+******** line 221 ********
+219. Charles:
+You have no idea. You have no idea of what she is capable of.
+
+220. Logan:
+No, Professor. I had no idea what you were capable of.
+
+=> 221. Charles:
+=> I had a terrible choice to make. I chose the lesser of two evils.
+
+222. Logan:
+It sounds to me like Jean had no choice at all.
+
+223. Charles:
+I don't have to explain myself, least of all to you.
+
+******** evaluate line 221 in x-men_the_last_stand_tw_gapi.csv ********
+2 pronouns resolved
+1. I => James
+2. I => Calisto
+
+how many are correctly identified? 0
+
+******** line 164 ********
+162. Little Girl:
+Why are you doing this to me? Let me down. I'll be a good girl. Please let me go. Please.
+
+163. Guard:
+Keep it up. I'll spray you in the face, bitch.
+
+=> 164. Little Girl:
+=> When I get out of here, I'm going to kill you myself.
+
+165. Guard:
+Yeah, right.
+
+166. Dr. Rao:
+Secretary McCoy, welcome to Worthington Labs.
+
+******** evaluate line 164 in x-men_the_last_stand_tw_gapi.csv ********
+4 pronouns resolved
+1. I => Loggan
+2. I => Guard
+3. you => Hank
+4. myself => Warren
+
+how many are correctly identified? 0
+
+******** line 85 ********
+83. Interrogator:
+OK, then. Mystique - where is he?
+
+84. Raven:
+In here with us.
+
+=> 85. Interrogator:
+=> I don't want to play games with you. I want answers.
+
+86. Raven:
+You don't want to play games with me?
+
+87. Interrogator:
+You are going to stop this. Tell me, where is Magneto?
+
+******** evaluate line 85 in x-men_the_last_stand_tw_gapi.csv ********
+3 pronouns resolved
+1. I => Cain
+2. you => Cain
+3. I => Mrs. Grey
+
+how many are correctly identified? 0
+
+******** line 216 ********
+214. Logan:
+What have you done to her?
+
+215. Charles:
+You have to understand...
+
+=> 216. Logan:
+=> You're talking about a person's mind.
+
+217. Charles:
+She has to be controlled.
+
+218. Logan:
+Controlled? Sometimes, when you cage the beast, the beast gets angry.
+
+******** evaluate line 216 in x-men_the_last_stand_tw_gapi.csv ********
+1 pronouns resolved
+1. You => Jean's voice
+
+how many are correctly identified? 0
+
+******** line 32 ********
+30. Logan:
+Yeah, I know. They're not ready, Storm.
+
+31. Storm:
+Logan.
+
+=> 32. Logan:
+=> Oh, don't get your panties in a bunch. That was my last cigar.
+
+33. Storm:
+Logan.
+
+34. Kitty:
+It's getting closer.
+
+******** evaluate line 32 in x-men_the_last_stand_tw_gapi.csv ********
+2 pronouns resolved
+1. your => Psylocke
+2. my => John
+
+how many are correctly identified? 0
+
+******** line 124 ********
+122. Logan:
+Right, right. The secretary. Nice suit.
+
+123. Charles:
+Henry, this is Logan. He's...
+
+=> 124. Hank:
+=> Wolverine. - I hear you're quite an animal.
+
+125. Logan:
+Look who's talking.
+
+126. Storm:
+Magneto's gonna come get Mystique.
+
+******** evaluate line 124 in x-men_the_last_stand_tw_gapi.csv ********
+2 pronouns resolved
+1. I => Staff Woman
+2. you => Jimmy
+
+how many are correctly identified? 0
+
+******** line 290 ********
+288. Logan:
+Where's Scott? Jean?
+
+289. Jean:
+Where am I?
+
+=> 290. Logan:
+=> You're in the mansion. You need to tell me what happened to Scott. Jean, tell me what happened to him.
+
+291. Jean:
+Oh, God.
+
+292. Logan:
+Look at me. Stay with me. Talk to me. - Look at me. Look at me. - No. Focus. Focus, Jean.
+
+******** evaluate line 290 in x-men_the_last_stand_tw_gapi.csv ********
+5 pronouns resolved
+1. You => Dr. Rao
+2. You => Marie
+3. me => CaIisto
+4. me => Storm
+5. him => Logn
+
+how many are correctly identified? 0
+
+******** line 14 ********
+12. Mrs. Grey:
+Of course. Jean, can you come down, dear?
+
+13. Mr. Grey:
+We'll leave you, then.
+
+=> 14. Charles:
+=> It's very rude to read my thoughts, or Mr. Lensherr's, without our permission.
+
+15. Eric:
+Did you think you were the only one of your kind, young lady?
+
+16. Charles:
+We're mutants, Jean. We're like you.
+
+******** evaluate line 14 in x-men_the_last_stand_tw_gapi.csv ********
+3 pronouns resolved
+1. It => Kitty
+2. my => Calisto
+3. our => Computer
+
+how many are correctly identified? 0
+
+******** line 286 ********
+284. Logan:
+No. Maybe you ought to take it easy. The professor said you might be different.
+
+285. Phoenix:
+He would know, wouldn't he?
+
+=> 286. Logan:
+=> What? You think he's not in your head too?
+
+287. Phoenix:
+Look at you, Logan. He's tamed you.
+
+288. Logan:
+Where's Scott? Jean?
+
+******** evaluate line 286 in x-men_the_last_stand_tw_gapi.csv ********
+4 pronouns resolved
+1. What => Kitty
+2. You => Bobby
+3. he => Scott
+4. your => Jimmy
+
+how many are correctly identified? 0
+
+******** line 21 ********
+19. Charles:
+You have more power than you can imagine, Jean. The question is, will you control that power? Or let it control you?
+
+20. Mr. Worthington:
+Warren? Son, is everything all right? - What's going on?
+
+=> 21. Warren:
+=> Nothing. I'll be right out.
+
+22. Mr. Worthington:
+Come on. You've been in there for over an hour. Open the door. Warren.
+
+23. Warren:
+One second!
+
+******** evaluate line 21 in x-men_the_last_stand_tw_gapi.csv ********
+1 pronouns resolved
+1. I => James
+
+how many are correctly identified? 0
+
+******** line 263 ********
+261. Eric:
+I think he'll make a fine addition to our army.
+
+262. Raven:
+No!
+
+=> 263. Eric:
+=> You saved me.
+
+264. Raven:
+Eric.
+
+265. Eric:
+I'm sorry, my dear. You're not one of us any more. Such a shame. She was so beautiful.
+
+******** evaluate line 263 in x-men_the_last_stand_tw_gapi.csv ********
+2 pronouns resolved
+1. You => Mr. Worthington
+2. me => Mr. Worthington
+
+how many are correctly identified? 0
+
+******** line 163 ********
+161. Guard:
+Oh, Mr. President. Shut up.
+
+162. Little Girl:
+Why are you doing this to me? Let me down. I'll be a good girl. Please let me go. Please.
+
+=> 163. Guard:
+=> Keep it up. I'll spray you in the face, bitch.
+
+164. Little Girl:
+When I get out of here, I'm going to kill you myself.
+
+165. Guard:
+Yeah, right.
+
+******** evaluate line 163 in x-men_the_last_stand_tw_gapi.csv ********
+2 pronouns resolved
+1. I => Psylocke
+2. you => Jean
+
+how many are correctly identified? 0
+
+******** line 258 ********
+256. Cain:
+Juggernaut.
+
+257. Eric:
+I can't imagine why.
+
+=> 258. Cain:
+=> You could let me out of here. I need a pee.
+
+259. John:
+Nice helmet.
+
+260. Cain:
+Thanks. Keeps my face pretty.
+
+******** evaluate line 258 in x-men_the_last_stand_tw_gapi.csv ********
+3 pronouns resolved
+1. You => President
+2. me => Jimmy
+3. I => James
+
+how many are correctly identified? 0
+
+******** line 10 ********
+8. Eric:
+Illness?
+
+9. Mrs. Grey:
+John.
+
+=> 10. Eric:
+=> You think your daughter is sick, Mr. Grey?
+
+11. Charles:
+Perhaps it would be best if we were to speak to her. Alone.
+
+12. Mrs. Grey:
+Of course. Jean, can you come down, dear?
+
+******** evaluate line 10 in x-men_the_last_stand_tw_gapi.csv ********
+2 pronouns resolved
+1. You => Logn
+2. your => Marie
+
+how many are correctly identified? 0
+
+******** line 167 ********
+165. Guard:
+Yeah, right.
+
+166. Dr. Rao:
+Secretary McCoy, welcome to Worthington Labs.
+
+=> 167. Hank:
+=> Thank you, Dr. Rao. Not an easy place to get to.
+
+168. Dr. Rao:
+It's the safest location we could find. That's why we keep the source of the cure here.
+
+169. Hank:
+He is a mutant. You understand our concern.
+
+******** evaluate line 167 in x-men_the_last_stand_tw_gapi.csv ********
+1 pronouns resolved
+1. you => Mr. Worthington
+
+how many are correctly identified? 0
+
+******** line 2 ********
+0. Eric:
+I still don't know why I'm here. Couldn't you just make them say yes?
+
+1. Charles:
+Yes, I could, but it's not my way. And I would expect you, of all people, would understand my feelings on misuse of power.
+
+=> 2. Eric:
+=> Ah, power corrupts and all that. Yes, I know, Charles. - When are you going to stop lecturing me?
+
+3. Charles:
+When you start listening. You're here because I need you.
+
+4. Eric:
+We don't have to meet every one of them in person?
+
+******** evaluate line 2 in x-men_the_last_stand_tw_gapi.csv ********
+3 pronouns resolved
+1. I => Phoenix
+2. you => Hank
+3. me => Jean
+
+how many are correctly identified? 0
+
+******** line 261 ********
+259. John:
+Nice helmet.
+
+260. Cain:
+Thanks. Keeps my face pretty.
+
+=> 261. Eric:
+=> I think he'll make a fine addition to our army.
+
+262. Raven:
+No!
+
+263. Eric:
+You saved me.
+
+******** evaluate line 261 in x-men_the_last_stand_tw_gapi.csv ********
+3 pronouns resolved
+1. I => Lady
+2. he => Kitty
+3. our => CaIisto
+
+how many are correctly identified? 0
+
+******** line 43 ********
+41. Storm:
+What was that?
+
+42. Logan:
+Danger room session.
+
+=> 43. Storm:
+=> You know what I mean.
+
+44. Logan:
+Lighten up.
+
+45. Storm:
+You can't change the rules.
+
+******** evaluate line 43 in x-men_the_last_stand_tw_gapi.csv ********
+2 pronouns resolved
+1. You => Hank
+2. I => Eric
+
+how many are correctly identified? 0
+
+******** line 191 ********
+189. Steve Rogers:
+I went under, the world was at war, I wake up, they say we won. They didn't say what we lost.
+
+190. Nick Fury:
+We've made some mistakes along the way. Some very recently.
+
+=> 191. Steve Rogers:
+=> You here with a mission, sir?
+
+192. Nick Fury:
+I am.
+
+193. Steve Rogers:
+Trying to get me back in the world?
+
+******** evaluate line 191 in the_avengers_tw_gapi.csv ********
+1 pronouns resolved
+1. You => Nick Fury
+
+how many are correctly identified? 0
+
+******** line 113 ********
+111. Natasha Romanoff:
+Look, you can't pull me out of this right now.
+
+112. Agent Phil Coulson:
+Natasha, Barton's been compromised.
+
+=> 113. Natasha Romanoff:
+=> Let me put you on hold.
+
+114. narrator:
+as Luchkov comes to take the phone off her she hits him with her leg and starts attacking the other thugs, she frees herself from the chair, knocks everyone out, picks up the phone as Coulson is still waiting on the line
+
+115. Natasha Romanoff:
+Where's Barton now?
+
+******** evaluate line 113 in the_avengers_tw_gapi.csv ********
+2 pronouns resolved
+1. me => Agent Jasper Sitwell
+2. you => Bruce Banner
+
+how many are correctly identified? 0
+
+******** line 234 ********
+232. Tony Stark:
+An argument can be made for fifteen.
+
+233. Pepper Potts:
+Twelve percent for my baby?
+
+=> 234. Tony Stark:
+=> Well, I did do all the heavy lifting. Literally, I lifted the heavy things. And sorry, but the security snafu? That was on you.
+
+235. Pepper Potts:
+Oooooh!
+
+236. Tony Stark:
+My private elevator.
+
+******** evaluate line 234 in the_avengers_tw_gapi.csv ********
+3 pronouns resolved
+1. I => Selvig
+2. I => Jarvis
+3. you => Luchkov
+
+how many are correctly identified? 0
+
+******** line 84 ********
+82. narrator:
+Hill gets into a truck and follows after Barton's truck
+
+83. narrator:
+after the research facility has collapsed, Fury and Hill try to chase after Loki but fail to catch him escaping with the briefcase containing the Tesseract; talking through their walkie talkie's
+
+=> 84. Agent Phil Coulson:
+=> Director? Director Fury, do you copy?
+
+85. Nick Fury:
+The Tesseract is with the hostile force. I have men down. Hill?
+
+86. Agent Maria Hill:
+A lot of men still under, don't know how many survivors.
+
+******** evaluate line 84 in the_avengers_tw_gapi.csv ********
+1 pronouns resolved
+1. you => Pepper Potts
+
+how many are correctly identified? 0
+
+******** line 313 ********
+311. Bruce Banner:
+Really? They wanted me in a submerged pressurized metal container? [they both move closer to the edge of the Helicarrier and watch in awe as it starts to lift into the air] Oh, no. This is much worse.
+
+312. Nick Fury:
+[to Steve and Banner after they watch in awe as the Helicarrier takes off and off] Gentlemen. [Steve gives Fury 10 bucks, referring to his earlier statement about never being surprised again] Doctor, thank you for coming.
+
+=> 313. Bruce Banner:
+=> Thanks for asking nicely. So, uh...how long am I staying?
+
+314. Nick Fury:
+Once we get our hands on the Tesseract, you're in the clear.
+
+315. Bruce Banner:
+Where are you with that? [Fury points to Coulson to explain]
+
+******** evaluate line 313 in the_avengers_tw_gapi.csv ********
+1 pronouns resolved
+1. I => NASA Scientist
+
+how many are correctly identified? 0
+
+******** line 162 ********
+160. Bruce Banner:
+Stop lying to me!
+
+161. narrator:
+Natasha quickly grab her gun and points it at Banner
+
+=> 162. Bruce Banner:
+=> I'm sorry, that was mean. I just wanted to see what you'd do. Why don't we do this the easy way, where you don't use that, and the other guy doesn't make a mess? Okay?
+
+163. narrator:
+Natasha, still wary, doesn't lower her gun
+
+164. Bruce Banner:
+Natasha.
+
+******** evaluate line 162 in the_avengers_tw_gapi.csv ********
+5 pronouns resolved
+1. I => World Security Council #2
+2. I => Agent Jasper Sitwell
+3. you => Bruce Banner
+4. we => Loki
+5. you => Agent Maria Hill
+
+how many are correctly identified? 0
+
+******** line 221 ********
+219. Jarvis:
+Sir, Agent Coulson of SHIELD is on the line.
+
+220. Tony Stark:
+I'm not in. I'm actually out.
+
+=> 221. Jarvis:
+=> Sir, I'm afraid he's insisting.
+
+222. Tony Stark:
+Close the line Jarvis. I got a date.
+
+223. narrator:
+inside
+
+******** evaluate line 221 in the_avengers_tw_gapi.csv ********
+2 pronouns resolved
+1. I => World Security Council #2
+2. he => Agent Jasper Sitwell
+
+how many are correctly identified? 0
+
+******** line 166 ********
+164. Bruce Banner:
+Natasha.
+
+165. narrator:
+she lowers her gun and speaks into her earpiece to the SHIELD agents who are surrounding the building outside
+
+=> 166. Natasha Romanoff:
+=> Stand down. We're good here.
+
+167. narrator:
+Banner looks at Natasha in amusement
+
+168. Bruce Banner:
+Just you and me?
+
+******** evaluate line 166 in the_avengers_tw_gapi.csv ********
+1 pronouns resolved
+1. We => World Security Council #1
+
+how many are correctly identified? 0
+
+******** line 56 ********
+54. Loki:
+Please don't. I still need that.
+
+55. Nick Fury:
+This doesn't have to get any messier.
+
+=> 56. Loki:
+=> Of course it does. I've come too far for anything else. I am Loki of Asgard, and I am burdened with glorious purpose.
+
+57. Selvig:
+Loki? Brother of Thor?
+
+58. Nick Fury:
+We have no quarrel with your people.
+
+******** evaluate line 56 in the_avengers_tw_gapi.csv ********
+3 pronouns resolved
+1. I => World Security Council #1
+2. I => Tony Stark
+3. I => Nick Fury
+
+how many are correctly identified? 0
+
+******** line 269 ********
+267. Agent Phil Coulson:
+This isn't about personality profiles anymore.
+
+268. Tony Stark:
+Whatever. Miss Potts, got a minute? You know, I thought we were having a moment.
+
+=> 269. Pepper Potts:
+=> I was having twelve percent of a moment. This seems serious, Phil's pretty shaken.
+
+270. Tony Stark:
+How did you notice? Why is he Phil? [referring to the file Coulson had given to Stark]
+
+271. Pepper Potts:
+What is all this?
+
+******** evaluate line 269 in the_avengers_tw_gapi.csv ********
+1 pronouns resolved
+1. I => narrator
+
+how many are correctly identified? 0
+
+******** line 51 ********
+49. narrator:
+Loki looks at his spear then suddenly points it at where Fury and Barton are standing and shoots out a blue exploding light towards them
+
+50. narrator:
+as Barton tries to kill Loki, Loki grabs Barton's hand
+
+=> 51. Loki:
+=> You have heart.
+
+52. narrator:
+Loki points the head of his spear at Barton's hear and uses his ability to control Barton's mind
+
+53. narrator:
+as Loki is busy using his abilities to control the minds of several S.H.I.E.L.D. personnel, Fury takes the Tesseract and tries to leave the lab
+
+******** evaluate line 51 in the_avengers_tw_gapi.csv ********
+1 pronouns resolved
+1. You => Selvig
+
+how many are correctly identified? 0
+
+******** line 95 ********
+93. Luchkov:
+This is not how I wanted this night to go.
+
+94. Natasha Romanoff:
+I know how you wanted this night to go. Believe me, this is better.
+
+=> 95. Luchkov:
+=> Who are you working for? Lermentov, yes? Does he really think that we'll have to go through him to move our tanks?
+
+96. Natasha Romanoff:
+I thought General Solohob was in charge of the cargo?
+
+97. Luchkov:
+Solohob? A bagman. A front.
+
+******** evaluate line 95 in the_avengers_tw_gapi.csv ********
+6 pronouns resolved
+1. Who => Bruce Banner
+2. you => Luchkov
+3. he => Agent Jasper Sitwell
+4. we => Georgi Luchkov
+5. him => Selvig
+6. our => Luchkov
+
+how many are correctly identified? 0
+
+******** line 123 ********
+121. narrator:
+Natasha stops in realization
+
+122. Natasha Romanoff:
+Holy cow.
+
+=> 123. narrator:
+=> in India, after getting lured in by a little girl to a remote location help her sick father and sees that the little girl running away as soon as she's brought him to an isolated building
+
+124. Bruce Banner:
+Should have got paid up front, Banner.
+
+125. narrator:
+Natasha comes up behind him
+
+******** evaluate line 123 in the_avengers_tw_gapi.csv ********
+3 pronouns resolved
+1. her => Clint Barton
+2. she => Loki
+3. him => Luchkov
+
+how many are correctly identified? 0
+
+******** line 154 ********
+152. Natasha Romanoff:
+Well, he wants you to find it. It's been taken. It omits a gamma signature that's too weak for us to trace. There's no one that knows gamma radiation like you do. If there was, that's where I'd be.
+
+153. Bruce Banner:
+So Fury isn't after the monster?
+
+=> 154. Natasha Romanoff:
+=> Not that he's told me.
+
+155. Bruce Banner:
+And he tells you everything?
+
+156. Natasha Romanoff:
+Talk to Fury, he needs you on this.
+
+******** evaluate line 154 in the_avengers_tw_gapi.csv ********
+2 pronouns resolved
+1. he => Pepper Potts
+2. me => Tony Stark
+
+how many are correctly identified? 0
+
+******** line 253 ********
+251. Tony Stark:
+Phil?
+
+252. Agent Phil Coulson:
+I can't stay.
+
+=> 253. Tony Stark:
+=> Uh...his first name is Agent.
+
+254. Pepper Potts:
+[to Coulson] Come on in, we're celebrating.
+
+255. Pepper Potts:
+Come on in, we're celebrating.
+
+******** evaluate line 253 in the_avengers_tw_gapi.csv ********
+1 pronouns resolved
+1. his => Luchkov
+
+how many are correctly identified? 0
+
+******** line 262 ********
+260. Tony Stark:
+Official consulting hours are between eight and five every other Thursday.
+
+261. Agent Phil Coulson:
+This isn't a consultation.
+
+=> 262. Pepper Potts:
+=> Is this about The Avengers? Which I...I know nothing about.
+
+263. Tony Stark:
+The Avengers Initiative was scrapped, I thought. And I didn't even qualify.
+
+264. Pepper Potts:
+I didn't know that either.
+
+******** evaluate line 262 in the_avengers_tw_gapi.csv ********
+2 pronouns resolved
+1. I => Steve Rogers
+2. I => World Security Council #2
+
+how many are correctly identified? 0
+
+******** line 200 ********
+198. Steve Rogers:
+Who took it from you?
+
+199. Nick Fury:
+He's called Loki. He's not from around here. There's a lot we'll have to bring you up to speed on if you're in. The world has gotten even stranger than you already know.
+
+=> 200. Steve Rogers:
+=> At this point, I doubt anything would surprise me.
+
+201. Nick Fury:
+Ten bucks says you're wrong.
+
+202. narrator:
+Steve turns and picks up a punching bag
+
+******** evaluate line 200 in the_avengers_tw_gapi.csv ********
+2 pronouns resolved
+1. I => Natasha Romanoff
+2. me => Nick Fury
+
+how many are correctly identified? 0
+
+******** line 203 ********
+201. Nick Fury:
+Ten bucks says you're wrong.
+
+202. narrator:
+Steve turns and picks up a punching bag
+
+=> 203. Nick Fury:
+=> There's a debriefing package waiting for you back at your apartment.
+
+204. narrator:
+with the punching bag on his shoulder, Steve starts walking out of the gym
+
+205. Nick Fury:
+Is there anything you can tell us about the Tesseract that we ought to know now?
+
+******** evaluate line 203 in the_avengers_tw_gapi.csv ********
+2 pronouns resolved
+1. you => Clint Barton
+2. your => Jarvis
+
+how many are correctly identified? 0
+
+******** line 327 ********
+325. Selvig:
+Yeah, Iridium. It's found in meteorites, it forms anti-protons. It's very hard to get hold of.
+
+326. Clint Barton:
+Specially if SHIELD knows you need it.
+
+=> 327. Selvig:
+=> Well, I didn't know! The Tesseract is showing me so much. It's...it's more than knowledge, it's truth.
+
+328. Loki:
+I know. What did it show you, Agent Barton?
+
+329. Clint Barton:
+My next target.
+
+******** evaluate line 327 in the_avengers_tw_gapi.csv ********
+3 pronouns resolved
+1. I => Tony Stark
+2. me => Agent Jasper Sitwell
+3. It => Natasha Romanoff
+
+how many are correctly identified? 0
+
+******** line 291 ********
+289. Agent Phil Coulson:
+Everything that's happening, the things that are about to come to light, people might just need a little old fashioned.
+
+290. The Other:
+The Chitauri grow restless.
+
+=> 291. Loki:
+=> Let them grow restless. I will lead them in the glorious battle.
+
+292. The Other:
+Battle? Against a meagre might of earth?
+
+293. Loki:
+Glorious, not lengthy. If your force is as formidable as you claim.
+
+******** evaluate line 291 in the_avengers_tw_gapi.csv ********
+3 pronouns resolved
+1. them => World Security Council #2
+2. I => Georgi Luchkov
+3. them => World Security Council #1
+
+how many are correctly identified? 0
+
+******** line 153 ********
+151. Merchant:
+If you are with her, I suggest you go away. Go away.
+
+152. Apocalypse:
+Who rules this world?
+
+=> 153. Merchant:
+=> What language is that? Clown! What do you want? Go away! Sorry. Sorry.
+
+154. Apocalypse:
+You feel it, don't you? Now, you feel it. CENTRAL INTELLIGENCE AGENCY UNITED STATES OF AMERICA
+
+155. Alex:
+So, you really haven't seen her in all these years? You never looked her up? Not even in Cerebro?
+
+******** evaluate line 153 in x-men_apocalypse_tw_gapi.csv ********
+2 pronouns resolved
+1. What => Student 3
+2. you => Some Dude
+
+how many are correctly identified? 0
+
+******** line 231 ********
+229. Hank:
+Yeah.
+
+230. Scott:
+Hey.
+
+=> 231. Jean:
+=> You can see.
+
+232. Scott:
+Yeah. It's not as bad as I thought here.
+
+233. Student 1:
+Freak.
+
+******** evaluate line 231 in x-men_apocalypse_tw_gapi.csv ********
+1 pronouns resolved
+1. You => Woman
+
+how many are correctly identified? 0
+
+******** line 249 ********
+247. Hank:
+Welcome.
+
+248. Caliban:
+We're closed. I knew I felt a chill in the air. How did you get in here?
+
+=> 249. Storm:
+=> We let ourselves in.
+
+250. Apocalypse:
+We are looking for mutants. Since you know where to find them, we came here.
+
+251. Caliban:
+Caliban doesn't know you.
+
+******** evaluate line 249 in x-men_apocalypse_tw_gapi.csv ********
+2 pronouns resolved
+1. We => Egyptian Guard
+2. ourselves => Student 5
+
+how many are correctly identified? 0
+
+******** line 293 ********
+291. Erik:
+Some of you spoke to the police... About what your believed you witnessed here yesterday. You want to know my past? Know who I am? See what I can do? I'll show you. Think about the person you love most in your life. Your wife. Mother. Daughter. Now that person will know what it is to lose someone they love. And live with that pain. - Forever.
+
+292. Worker:
+Henryk, please. Don't do this.
+
+=> 293. Erik:
+=> My name isn't Henryk. My name is Magneto. Who the fuck are you? Stay back. Whoever you are, don't try to stop me from killing these men.
+
+294. Apocalypse:
+I'm not here for them. I'm here for you. Come and see. This is where your power was born. And this is where your people were slaughtered.
+
+295. Erik:
+You shouldn't have brought me here.
+
+******** evaluate line 293 in x-men_apocalypse_tw_gapi.csv ********
+7 pronouns resolved
+1. My => Worker
+2. My => Storm
+3. Who => Raven
+4. you => Raven
+5. Whoever => Nightcrawler
+6. you => Peter's Mom
+7. me => Student 4
+
+how many are correctly identified? 0
+
+******** line 332 ********
+330. Raven:
+This isn't my house.
+
+331. Charles:
+It was once.
+
+=> 332. Raven:
+=> No, it was your home. I just lived here. I barely even recognize it now.
+
+333. Charles:
+Yeah, I have plans for this place. I mean to turn it into a real campus. A university. Not just for mutants, even for humans too. Living and working, ... growing together.
+
+334. Raven:
+You know, I really believed that once. I really believed we can change them after DC.
+
+******** evaluate line 332 in x-men_apocalypse_tw_gapi.csv ********
+3 pronouns resolved
+1. your => Kurt
+2. I => Student 2
+3. I => Crowd
+
+how many are correctly identified? 0
+
+******** line 397 ********
+395. Hank:
+Where... Where did you...?
+
+396. Peter:
+I was looking for the Professor. I thought he lived here.
+
+=> 397. Hank:
+=> They took him away.
+
+398. Student 3:
+She's the one.
+
+399. Student 4:
+That's her.
+
+******** evaluate line 397 in x-men_apocalypse_tw_gapi.csv ********
+2 pronouns resolved
+1. They => Black Official
+2. him => Magda
+
+how many are correctly identified? 0
+
+******** line 48 ********
+46. Scott:
+Smells pretty old in here. Is this a school or museum.
+
+47. Alex:
+One more, and last one. Oh.
+
+=> 48. Jean:
+=> (through telepathy) Watch where you're going.
+
+49. Scott:
+I can't...
+
+50. Alex:
+What? Who are you talking to?
+
+******** evaluate line 48 in x-men_apocalypse_tw_gapi.csv ********
+1 pronouns resolved
+1. you => Psylocke
+
+how many are correctly identified? 0
+
+******** line 94 ********
+92. Charles:
+Oh, but I think I do. It wasn't so long ago, that I was plagued by voices of myself. All their suffering. All their pain. Their secrets.
+
+93. Jean:
+I'm afraid one day I am going to hurt someone.
+
+=> 94. Charles:
+=> Lie back. Everyone fears that which they do not understand. You will learn to control your powers. And when you do, you'll have nothing to fear.
+
+95. Charles:
+Her nightmares were different this time.
+
+96. Hank:
+Well, it could have count for something I saw while I was in my lab earlier. There was some kind of tremor. Like an energy surge. - I picked it up on one of my meters. -
+
+******** evaluate line 94 in x-men_apocalypse_tw_gapi.csv ********
+5 pronouns resolved
+1. they => Crowd
+2. You => Egyptian Guard
+3. your => Computer
+4. you => Police Officer
+5. you => Woman
+
+how many are correctly identified? 0
+
+******** line 15 ********
+13. Scott:
+Can I please go to the bathroom. I think there's something seriously wrong with my eyes.
+
+14. Teacher:
+Fine, Scott, and afterward, why don't you stop by the principals office and explain to him that you're disrupting the class again. I trust you know the way.
+
+=> 15. Scott:
+=> Yeah, I do.
+
+16. Teacher:
+Okay. (Bell rings) Oh. Hang on. Hang on. Now, I know most of you were what? Around 7 years old at that time.
+
+17. Dude:
+Summers! I know you're in here. Are you crying? I haven't even kick your ass yet. Summers. You want to eyeball my girl? Summers. Summers.
+
+******** evaluate line 15 in x-men_apocalypse_tw_gapi.csv ********
+1 pronouns resolved
+1. I => Student 6
+
+how many are correctly identified? 0
+
+******** line 326 ********
+324. Charles:
+Hank, Alex, agent MacTaggert, would you give us just one moment please?
+
+325. Moira:
+Of course.
+
+=> 326. Raven:
+=> Charles, why didn't she recognize me? She knew me in this form.
+
+327. Charles:
+Well. After you left me on the beach in Cuba, I took her memories of that time. Have a sit.
+
+328. Raven:
+Lucky girl.
+
+******** evaluate line 326 in x-men_apocalypse_tw_gapi.csv ********
+4 pronouns resolved
+1. she => Reporter
+2. me => Horsemen of Apocalypse
+3. She => Alex
+4. me => Horsemen of Apocalypse
+
+how many are correctly identified? 0
+
+******** line 403 ********
+401. Student 6:
+Is she going to help us?
+
+402. Hank:
+They look up to you. Right now. They need you.
+
+=> 403. Raven:
+=> That's not what they need.
+
+404. Student 7:
+Whoa! That's far out.
+
+405. Scott:
+What happened? Where's Alex? Where's my brother?
+
+******** evaluate line 403 in x-men_apocalypse_tw_gapi.csv ********
+1 pronouns resolved
+1. they => Charles
+
+how many are correctly identified? 0
+
+******** line 93 ********
+91. Jean:
+No. No. You don't know what it's like to be afraid to shut your eyes. - To be trapped inside your own head. -
+
+92. Charles:
+Oh, but I think I do. It wasn't so long ago, that I was plagued by voices of myself. All their suffering. All their pain. Their secrets.
+
+=> 93. Jean:
+=> I'm afraid one day I am going to hurt someone.
+
+94. Charles:
+Lie back. Everyone fears that which they do not understand. You will learn to control your powers. And when you do, you'll have nothing to fear.
+
+95. Charles:
+Her nightmares were different this time.
+
+******** evaluate line 93 in x-men_apocalypse_tw_gapi.csv ********
+2 pronouns resolved
+1. I => TV
+2. I => Charles
+
+how many are correctly identified? 0
+
+******** line 252 ********
+250. Apocalypse:
+We are looking for mutants. Since you know where to find them, we came here.
+
+251. Caliban:
+Caliban doesn't know you.
+
+=> 252. Apocalypse:
+=> We are looking for the strongest.
+
+253. Psylocke:
+Everything alright?
+
+254. Caliban:
+I'm fine, Psylocke. How much money do you have?
+
+******** evaluate line 252 in x-men_apocalypse_tw_gapi.csv ********
+1 pronouns resolved
+1. We => Moira
+
+how many are correctly identified? 0
+
+******** line 405 ********
+403. Raven:
+That's not what they need.
+
+404. Student 7:
+Whoa! That's far out.
+
+=> 405. Scott:
+=> What happened? Where's Alex? Where's my brother?
+
+406. Alex:
+I'm pretty sure I got everybody.
+
+407. Hank:
+Alex was closest to the blast.
+
+******** evaluate line 405 in x-men_apocalypse_tw_gapi.csv ********
+2 pronouns resolved
+1. What => Government Official
+2. my => Peter's Mom
+
+how many are correctly identified? 0
+
+******** line 33 ********
+31. Raven:
+I'm nobody. I'm not a hero. Let's get out of here. PRUSZKOW, POLAND
+
+32. Worker:
+Have a good night, Henryk.
+
+=> 33. Erik:
+=> Same to you, Milosz. Hi, my love.
+
+34. Magda:
+Hi. Good day?
+
+35. Erik:
+Better now. - Where's Nina?
+
+******** evaluate line 33 in x-men_apocalypse_tw_gapi.csv ********
+2 pronouns resolved
+1. you => Merchant
+2. my => Director
+
+how many are correctly identified? 0
+
+******** line 323 ********
+321. Raven:
+Moira.
+
+322. Charles:
+Raven?
+
+=> 323. Moira:
+=> I'm sorry, have we met?
+
+324. Charles:
+Hank, Alex, agent MacTaggert, would you give us just one moment please?
+
+325. Moira:
+Of course.
+
+******** evaluate line 323 in x-men_apocalypse_tw_gapi.csv ********
+2 pronouns resolved
+1. I => Peter's Mom
+2. we => Apocalypse
+
+how many are correctly identified? 0
+
+******** line 178 ********
+176. Alex:
+I thought mutants didn't evolve until this century.
+
+177. Moira:
+That's the common theory, yes. But, these guys believe that the first mutant was born tens of thousands of years ago. And they believe he will rise again. They've been searching ancient sites all round the world for clues. These hieroglyphs described a specific set of powers greater than any man can possess.
+
+=> 178. Alex:
+=> They think he lived all that time?
+
+179. Moira:
+Yes and no. They believe he had the ability to transfer his consciousness from body to body, and whenever he was close to death he would just take on a new body. So, these may have been the bodies of mutants enabling him to take their powers amassing varies abilities over the years.
+
+180. Charles:
+An all powerful mutant.
+
+******** evaluate line 178 in x-men_apocalypse_tw_gapi.csv ********
+2 pronouns resolved
+1. They => Jean
+2. he => Dude
+
+how many are correctly identified? 0
+
+******** line 120 ********
+118. Magda:
+You did a good thing, you saved that man.
+
+119. Erik:
+That's not the point. If I'm exposed, we're all exposed. We have to go.
+
+=> 120. Magda:
+=> This is our home. This is our daughter's home.
+
+121. Erik:
+We are her home. I told you who I was, the first night I met you. I trusted you then. I need you to trust me now. We can't stay here anymore.
+
+122. Magda:
+I'll get Nina.  Sweetheart? She's not in her room. And I don't see her at the back.
+
+******** evaluate line 120 in x-men_apocalypse_tw_gapi.csv ********
+2 pronouns resolved
+1. our => Student 4
+2. our => Caliban
+
+how many are correctly identified? 0
+
+******** line 89 ********
+87. Jean:
+But, it felt real. -
+
+88. Charles:
+I know. Your mind is the most powerful I've ever seen. - It can convince itself... -
+
+=> 89. Jean:
+=> No, it's not just a mind reading or a telekinesis, it's something else. Some... dark power inside and it's growing, like a fire. - I thought I was getting better. -
+
+90. Charles:
+You are. You will. - You just have to be patient. -
+
+91. Jean:
+No. No. You don't know what it's like to be afraid to shut your eyes. - To be trapped inside your own head. -
+
+******** evaluate line 89 in x-men_apocalypse_tw_gapi.csv ********
+2 pronouns resolved
+1. I => Black Official
+2. I => Charles
+
+how many are correctly identified? 0
+
+******** line 106 ********
+104. Moira:
+I got to get out of here and give them a report.
+
+105. Hank:
+What? What is it?
+
+=> 106. Moira:
+=> Something happened here, I can tell it's real.
+
+107. Charles:
+It's her.
+
+108. Hank:
+Who?
+
+******** evaluate line 106 in x-men_apocalypse_tw_gapi.csv ********
+1 pronouns resolved
+1. I => Solider
+
+how many are correctly identified? 0
+
+******** test results ********
+script 1: precision = 0.04 (3/71 correct)
+script 2: precision = 0.05 (2/43 correct)
+script 3: precision = 0.02 (1/55 correct)
+script 4: precision = 0.00 (0/45 correct)
+script 5: precision = 0.00 (0/45 correct)
+overall: precision = 0.02 (6/259 correct)
