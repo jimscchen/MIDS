@@ -24,7 +24,7 @@ Work in progress
 ## W241 Experiment and Causality
 The course covers experiment design, and how to measure effects and determine causality, concepts critical for A/B testing.  
 Our final project is an experiment examining how positive/negative reinforcement can affect self-confidence.  
-**Amazon Mechanical Turk** and **Qualtrics Survey** are used for the online survey.  
+**Amazon Mechanical Turk** and **Qualtrics** are used for the online survey.  
 The analysis (as well as other assignments) is done in R.  
 The final report can be found [here](https://github.com/jimscchen/MIDS/blob/master/W241/W241FinalReport.pdf).
 
