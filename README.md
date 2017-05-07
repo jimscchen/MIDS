@@ -40,7 +40,12 @@ Work in progress
 ## W266 Natural Language Processing
 The course covers common NLP tasks and relevant tools (neural net/tensorflow, dynamic programming).  
 All work is done in python, using a mixture of **google cloud** and PC.  
-We implemented Kneser-Ney, LSTM-RNN language models, Forward-backward, Virtebi and CKY algorithms.  
+We implemented [Kneser-Ney](https://github.com/jimscchen/MIDSPrivate/blob/master/W266/a2/part1/part1_ngram.ipynb), 
+[LSTM-RNN](https://github.com/jimscchen/MIDSPrivate/blob/master/W266/a3/rnnlm-workbook.ipynb) language models, 
+[Forward-backward](https://github.com/jimscchen/MIDSPrivate/blob/master/W266/a5/part1/Part-of-Speech.ipynb), 
+[Virtebi](https://github.com/jimscchen/MIDSPrivate/blob/master/W266/a5/part1/Part-of-Speech.ipynb) and 
+[CKY](https://github.com/jimscchen/MIDSPrivate/blob/master/W266/a5/part2/CKY.ipynb) 
+algorithms.  
 Our final project is an **open information extraction** and **information retrieval** system on Marvel movie transcripts.  
 The report can be found [here](https://github.com/jimscchen/MIDS/blob/master/W266/w266_final_project_report_jim-rohan-winston.pdf).
 
