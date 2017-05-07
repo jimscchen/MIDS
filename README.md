@@ -41,7 +41,7 @@ Work in progress
 The course covers common NLP tasks and relevant tools (neural net/tensorflow, dynamic programming).  
 All work is done in python, using a mixture of **google cloud** and PC.  
 We implemented Kneser-Ney, LSTM-RNN language models, Forward-backward, Virtebi and CKY algorithms.  
-Our final project is an open information extraction and information retrieval system on marvel movie transcripts.  
+Our final project is an **open information extraction** and **information retrieval** system on Marvel movie transcripts.  
 The report can be found [here](https://github.com/jimscchen/MIDS/blob/master/W266/w266_final_project_report_jim-rohan-winston.pdf).
 
 
