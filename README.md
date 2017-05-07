@@ -38,7 +38,7 @@ Work in progress
 
 ## W210 Synthetic Capstone
 Putting the learning together in a [data science project](http://groups.ischool.berkeley.edu/intensive_capstone_unit/).  
-We developed a predictive model for ICU readmission based on MIMIC data set.  
+We developed a predictive model for **ICU readmissions based** on **MIMICIII** data set.  
 We also built a front end to display important information and trends to help the doctors visualize patient data.  
 The asynch content for the course touches on data projects and products, as well as some team dynamics.  
 Over all the asynch content is a bit fluffy and overlaps with parts of W201.  
