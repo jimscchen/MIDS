@@ -26,7 +26,7 @@ The course covers experiment design, and how to measure effects and determine ca
 These concepts are critical for A/B testing.  
 Our final project is an experiment examining how positive/negative reinforcement can affect self-confidence.  
 **Amazon Mechanical Turk** and **Qualtrics Survey** are used for the online survey.  
-The analysis (as well as other assignments) is done in R.
+The analysis (as well as other assignments) is done in R.  
 The final report can be found [here](https://github.com/jimscchen/MIDS/blob/master/W241/W241FinalReport.pdf).
 
 ## W251 Scaling Up! Really Big Data *
@@ -42,10 +42,9 @@ Work in progress
 Work in progress
 
 ## W210 Synthetic Capstone
-Putting the learning together in a [data science project](http://groups.ischool.berkeley.edu/intensive_capstone_unit/).  
+Putting the learning together in a [data science project](http://groups.ischool.berkeley.edu/intensive_capstone_unit/) (done in python).  
 We developed a predictive model for **ICU readmissions** based on **MIMICIII** data set.  
 We also built a front end to display important information and trends to help the doctors visualize patient data.  
-The project is done in python.
 The asynch content for the course touches on data projects and products, as well as some team dynamics.  
 Over all the asynch content is a bit fluffy and overlaps with parts of W201.  
 
