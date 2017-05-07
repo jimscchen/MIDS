@@ -38,7 +38,7 @@ Work in progress
 
 
 ## W266 Natural Language Processing
-The course covers main/common NLP tasks and relevant tools and techniques (neural net/tensorflow, dynamic programming).  
+The course covers common NLP tasks and relevant tools (neural net/tensorflow, dynamic programming).  
 All work is done in python, using a mixture of **google cloud** and PC.  
 We learned and built Kneser-Ney, LSTM-RNN language models, Forward-backward, Virtebi and CKY algorithms.  
 Our final project is an open information extraction and information retrieval system on marvel movie transcripts.  
