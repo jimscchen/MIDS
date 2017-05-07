@@ -4,7 +4,10 @@
 Work in progress
 
 ## W201 Research Design and Application for Data and Analysis
-
+The first course of the program is a gentle introduction to data science.  
+We discussed the meaning of data science and think of questions/issues that data science can address (imaginations run wild).  
+We also learned about interacting with other teams that may be unfamiliar with data science.  
+No technical/hard skills covered in the course.  
 
 ## W203 Statistics for Data Science
 
