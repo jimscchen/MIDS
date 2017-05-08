@@ -19,8 +19,8 @@ No technical/hard skills covered in the course.
 
 
 ## W209 Data Visualization and Communication
-A survey of common visualization tools: Tableau, Gephi, d3.js, and light HTML/javascript.
-For the final project, we built a [website](https://jimscchen.github.io/W209/app/) explaining the basics of options trading.
+A survey of common visualization tools: Tableau, Gephi, d3.js, and light HTML/javascript.  
+For the final project, we built a [website](https://jimscchen.github.io/W209/app/) explaining the basics of options trading.  
 Unfortunately a weak course--asynch has a lot of business presentation 101 material and provides little value.  
 Fortunately the course is getting revamped soon.
 
