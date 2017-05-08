@@ -62,7 +62,7 @@ We developed a predictive model for **ICU readmissions** based on **MIMICIII** d
 We also built a front end to display important information and trends to help the doctors visualize patient data.  
 The asynch content for the course touches on data projects and products, as well as some team dynamics.  
 Over all the asynch content is a bit fluffy and overlaps with parts of W201.  
-
-
-
+  
+  
+  
 `* completed through MIDS4Life after graduation`
