@@ -22,7 +22,7 @@ This course covers the basics of machine learning, mostly through sci-kit learni
 We played with [MNIST](https://github.com/jimscchen/MIDSPrivate/blob/master/W207/jim_chen_p1.ipynb)(digit recognition), 
 [newsgroup data set](https://github.com/jimscchen/MIDSPrivate/blob/master/W207/jim_chen_p2.ipynb)(text categorization) and 
 [mushroom data set](https://github.com/jimscchen/MIDSPrivate/blob/master/W207/jim_chen_p3.ipynb)(clustering).  
-We used Theano for neural networks.  
+We used Theano for neural networks. The work is (obviously) done through python.  
 For the final project, we worked on facial keypoint recognition.
 
 ## W209 Data Visualization and Communication
