@@ -10,13 +10,20 @@ We also learned about interacting with other teams that may be unfamiliar with d
 No technical/hard skills covered in the course.  
 
 ## W203 Statistics for Data Science
-
+Intro to statistics, and some basic probability.
+We learned (or reviewed) basic stat techniques, such as t-test, linear regression, logistics regression, etc.
+The work is done in R. 
 
 ## W205 Storing and Retrieving Data
 
 
 ## W207 Applied Machine Learning
-
+This course covers the basics of machine learning, mostly through sci-kit learning.
+We played with [MNIST](https://github.com/jimscchen/MIDSPrivate/blob/master/W207/jim_chen_p1.ipynb)(digit recognition), 
+[newsgroup data set](https://github.com/jimscchen/MIDSPrivate/blob/master/W207/jim_chen_p2.ipynb)(text categorization) and 
+[mushroom data set](https://github.com/jimscchen/MIDSPrivate/blob/master/W207/jim_chen_p3.ipynb)(clustering).
+We used Theano for neural networks.
+For the final project, we worked on facial keypoint recognition.
 
 ## W209 Data Visualization and Communication
 A survey of common visualization tools: Tableau, Gephi, d3.js, and light HTML/javascript.  
