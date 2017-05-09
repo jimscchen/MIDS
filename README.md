@@ -23,7 +23,7 @@ We played with [MNIST](https://github.com/jimscchen/MIDSPrivate/blob/master/W207
 [newsgroup data set](https://github.com/jimscchen/MIDSPrivate/blob/master/W207/jim_chen_p2.ipynb)(text categorization) and 
 [mushroom data set](https://github.com/jimscchen/MIDSPrivate/blob/master/W207/jim_chen_p3.ipynb)(clustering).  
 We used Theano for neural networks. The work is (obviously) done through python.  
-For the final project, we worked on facial keypoint recognition.
+For the final project, we worked on facial keypoint recognition using **Convolutional Neural Net**.
 
 ## W209 Data Visualization and Communication
 A survey of common visualization tools: Tableau, Gephi, d3.js, and light HTML/javascript.  
